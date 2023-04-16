@@ -1,3 +1,5 @@
 # EthereumAccountsCreator
 Automation creation of ETH and Algo accounts with Nethereum.<br>
-Launch the program and you will see instructions on how to use it.
+Available commands:<br>
+- /create {eth/algo} {count} - to create {eth/algo} accounts in amount of {count}
+- /change_path {eth/algo} {path} - to change path of saving {eth/algo} accounts
